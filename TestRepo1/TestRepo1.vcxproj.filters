@@ -24,5 +24,8 @@
     <ClCompile Include="Test321.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AddToOrphanOnly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

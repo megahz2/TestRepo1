@@ -190,6 +190,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AddToOrphanOnly.cpp" />
     <ClCompile Include="test123.cpp" />
     <ClCompile Include="Test321.cpp" />
     <ClCompile Include="TestRepo1.c" />
